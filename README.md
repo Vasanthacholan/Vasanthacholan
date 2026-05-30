@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vasanthacholan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=NOC%20%26%20Data%20Center%20Specialist%20%7C%20Network%20Fabric%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vasanthacholan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=NOC%20%26%20Data%20Center%20Specialist%20%7C%20Network%20Fabric%20Engineer&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=NOC+%7C+Data+Center+Specialist;BGP+%7C+EVPN-VXLAN+%7C+L3LS+Fabric+Engineer;Arista+%7C+Aruba+%7C+S3+Object+Storage;Continuous+learning+%3D+High+Availability+of+Knowledge" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=NOC+%7C+Data+Center+Specialist;BGP+%7C+EVPN-VXLAN+%7C+L3LS+Fabric+Engineer;Arista+%7C+Aruba+%7C+S3+Object+Storage;Continuous+learning+%3D+High+Availability+of+Knowledge" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasanthacholan&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vasanthacholan&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -21,18 +21,10 @@ const vasanthacholan = {
   name        : "Vasanthacholan",
   location    : "India 🇮🇳",
   role        : "NOC & Data Center Specialist",
-  stack       : [
-    "Next.js", "BGP", "EVPN-VXLAN",
-    "Arista EOS", "Aruba CX", "S3 Object Storage"
-  ],
-  currentlyLearning: [
-    "TNPSC Group 1 Syllabus",
-    "Financial Planning & Markets",
-    "Advanced L3LS Fabric Optimization"
-  ],
-  funFact     : `Balances 2-hour daily gym sessions,
-                 F1 championship scenarios,
-                 and enterprise data center fabrics — simultaneously.`,
+  degree      : "B.E - Electrical & Electronics (GCE Tirunelveli, 2023)",
+  stack       : ["BGP", "EVPN-VXLAN", "L3LS", "Arista EOS", "Aruba CX", "S3 Storage", "Next.js"],
+  currentlyLearning: ["TNPSC Group 1", "Financial Planning", "Unreal Engine"],
+  funFact     : "Balances 2-hr daily gym, F1 championship scenarios & enterprise DC fabrics.",
   motto       : () => "Continuous learning ensures high availability of knowledge."
 };
 ```
@@ -59,8 +51,8 @@ const vasanthacholan = {
 
 **Networking & Infrastructure**
 
-![Arista](https://img.shields.io/badge/Arista_EOS-FF6600?style=flat-square&logo=arista&logoColor=white)
-![Aruba](https://img.shields.io/badge/Aruba_CX-FF7A00?style=flat-square&logo=aruba&logoColor=white)
+![Arista](https://img.shields.io/badge/Arista_EOS-FF6600?style=flat-square&logo=cisco&logoColor=white)
+![Aruba](https://img.shields.io/badge/Aruba_CX-FF7A00?style=flat-square&logo=cisco&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP-0078D4?style=flat-square&logo=cisco&logoColor=white)
 ![EVPN-VXLAN](https://img.shields.io/badge/EVPN--VXLAN-1572B6?style=flat-square&logo=cisco&logoColor=white)
 ![L3LS](https://img.shields.io/badge/L3LS_Fabric-00ADEF?style=flat-square&logo=cisco&logoColor=white)
@@ -78,6 +70,7 @@ const vasanthacholan = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ---
 
@@ -85,23 +78,23 @@ const vasanthacholan = {
 
 <div align="center">
   <a href="https://github.com/vasanthacholan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanthacholan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanthacholan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/vasanthacholan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthacholan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthacholan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vasanthacholan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vasanthacholan&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanthacholan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanthacholan&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -109,7 +102,7 @@ const vasanthacholan = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasanthacholan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vasanthacholan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -117,15 +110,15 @@ const vasanthacholan = {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Data Center & NOC Specialist — Enterprise Data Center Unit &nbsp;|&nbsp; India &nbsp;|&nbsp; Present</b></summary>
+<summary><b>🏢 NOC &amp; Data Center Specialist — Enterprise Data Center Unit &nbsp;|&nbsp; India &nbsp;|&nbsp; Present</b></summary>
 
 <br/>
 
-> `Arista EOS` &nbsp;`Aruba CX` &nbsp;`BGP` &nbsp;`EVPN-VXLAN` &nbsp;`L3LS` &nbsp;`S3 Object Storage` &nbsp;`Linux` &nbsp;`Network Monitoring`
+> `Arista EOS` &nbsp;`Aruba CX` &nbsp;`BGP` &nbsp;`EVPN-VXLAN` &nbsp;`L3LS Fabric` &nbsp;`S3 Object Storage` &nbsp;`Linux` &nbsp;`Network Monitoring`
 
 - 🔗 Managed and monitored enterprise networking technologies and hardware configurations within a dedicated Data Center Unit, maintaining **99.9% uptime reliability** across critical infrastructure.
-- 🌐 Administered **L3LS fabrics, EVPN-VXLAN, and BGP routing** to ensure optimal network performance, scalability, and seamless east-west traffic flow across the data center spine-leaf architecture.
-- 🗂️ Configured and maintained robust **S3-compatible object storage clusters** for enterprise data management, enabling scalable, fault-tolerant storage operations.
+- 🌐 Administered **L3LS fabrics, EVPN-VXLAN, and BGP routing** to ensure optimal network performance, scalability, and seamless east-west traffic flow across the spine-leaf architecture.
+- 🗂️ Configured and maintained robust **S3-compatible object storage clusters** for enterprise data management, enabling scalable and fault-tolerant storage operations.
 - 🔄 Coordinated shift operations and comprehensive duty rosters across NOC teams to maintain **continuous, high-efficiency 24×7 data center operations**.
 
 </details>
@@ -138,7 +131,7 @@ const vasanthacholan = {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**Cinematic Web Application Gallery**](#) | Next.js · Vercel · Cursor AI | Secure password-protected image gallery with CI/CD via Vercel continuous deployment pipelines; production-grade auth flow and responsive cinematic UI |
+| [**CrackTNPSC**](https://www.cracktnpsc.in) | Next.js · Node.js · Python · Vercel | Built as indie developer — a free archive platform for TNPSC aspirants covering GK, Tamil Literature, and Public Administration resources |
 
 </div>
 
@@ -150,32 +143,35 @@ const vasanthacholan = {
 
 | Emoji | Achievement | Details |
 |:---:|:---|:---|
-| 📚 | **Continuous Learning** | Deep dive into Indian constitutional history, public administration, and Tamil literature for TNPSC Group 1 |
+| 🌐 | **99.9% Uptime** | Maintained near-zero downtime across enterprise DC fabric via proactive BGP and EVPN-VXLAN monitoring |
 | ⚡ | **Hardware Mastery** | Interoperability deployment of complex **Arista EOS** and **Aruba CX** network fabrics in live enterprise environments |
-| 🌐 | **99.9% Uptime** | Maintained near-zero downtime across data center fabric through proactive BGP and EVPN-VXLAN monitoring |
-| 📈 | **Market Analysis** | Continuous tracking of financial planning and stock trends via leading financial journals; portfolio management research |
-| 🏋️ | **Discipline & Balance** | 2-hour daily gym routine maintained alongside full-time enterprise NOC responsibilities |
+| 🚀 | **Indie Developer** | Built and deployed [cracktnpsc.in](https://www.cracktnpsc.in) solo — a full-stack TNPSC prep archive platform |
+| 📚 | **Continuous Learning** | Deep dive into Indian constitutional history, public administration, and Tamil literature for TNPSC Group 1 |
+| 📈 | **Market Analysis** | Active tracking of financial trends and portfolio management research via leading financial journals |
 
 </div>
 
 ---
 
-## 🎓 Education & Currently Learning
+## 🎓 Education
 
 <div align="center">
 
-| Degree / Goal | Institution / Focus | Year | Score |
+| Degree | Institution | Year | Score |
 |:---|:---|:---:|:---:|
-| TNPSC Group 1 Preparation | Public Administration · History · Tamil Literature | Present | — |
+| B.E — Electrical &amp; Electronics Engineering | Government College of Engineering, Tirunelveli | 2023 | — |
 
 </div>
 
-<br/>
+---
+
+## 🧠 Currently Learning
 
 ```plaintext
-TNPSC Preparation  →  Indian Constitutional History, Public Administration, Tamil Literature
-Financial Markets  →  US Financial Trends, Stock Market Analysis, Portfolio Management
-Network Engineering→  Advanced L3LS Fabric Optimization, SD-WAN Architectures
+TNPSC Preparation   →  Indian Constitutional History, Public Administration, Tamil Literature
+Financial Markets   →  US Financial Trends, Stock Market Analysis, Portfolio Management
+Network Engineering →  Advanced L3LS Fabric Optimization, SD-WAN Architectures
+Game Development    →  Unreal Engine — building a historical PC game
 ```
 
 ---
@@ -186,5 +182,5 @@ Network Engineering→  Advanced L3LS Fabric Optimization, SD-WAN Architectures
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 </p>
