@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vasanthacholan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=NOC%20%26%20Data%20Center%20Specialist%20%7C%20Network%20Fabric%20Engineer&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Vasanthacholan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=NOC%20%26%20Data%20Center%20Specialist%20%7C%20Network%20Fabric%20Engineer&amp;descAlignY=62&amp;descSize=16" width="100%" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -14,16 +14,17 @@
 
 <h2>🧑‍💻 About Me</h2>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation"/>
 
 <pre><code class="language-javascript">const vasanthacholan = {
   name        : "Vasanthacholan",
   location    : "India",
   role        : "NOC and Data Center Specialist",
-  degree      : "B.E - Electrical and Electronics (GCE Tirunelveli, 2023)",
+  degree      : "B.E - Electrical and Electronics Engineering",
+  college     : "Government College of Engineering, Tirunelveli",
   stack       : ["BGP", "EVPN-VXLAN", "L3LS", "Arista EOS", "Aruba CX", "S3 Storage", "Next.js"],
   currentlyLearning: ["TNPSC Group 1", "Financial Planning", "Unreal Engine"],
-  funFact     : "Balances 2-hr daily gym, F1 championship scenarios and enterprise DC fabrics.",
+  funFact     : "Balances 2-hr daily gym, F1 championship scenarios, and enterprise DC fabrics.",
   motto       : () =&gt; "Continuous learning ensures high availability of knowledge."
 };</code></pre>
 
@@ -34,6 +35,7 @@
 <h2>🛠️ Tech Stack and Tools</h2>
 
 <h4>Languages</h4>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
@@ -43,34 +45,39 @@
 </p>
 
 <h4>Frameworks and Platforms</h4>
+
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
 </p>
 
 <h4>Networking and Infrastructure</h4>
+
 <p>
   <img src="https://img.shields.io/badge/Arista_EOS-FF6600?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="Arista EOS"/>
   <img src="https://img.shields.io/badge/Aruba_CX-FF7A00?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="Aruba CX"/>
   <img src="https://img.shields.io/badge/BGP-0078D4?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="BGP"/>
   <img src="https://img.shields.io/badge/EVPN--VXLAN-1572B6?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="EVPN-VXLAN"/>
-  <img src="https://img.shields.io/badge/L3LS_Fabric-00ADEF?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="L3LS"/>
+  <img src="https://img.shields.io/badge/L3LS_Fabric-00ADEF?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="L3LS Fabric"/>
 </p>
 
 <h4>Cloud and Storage</h4>
+
 <p>
-  <img src="https://img.shields.io/badge/S3_Object_Storage-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/S3_Object_Storage-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" alt="S3 Object Storage"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&amp;logo=vmware&amp;logoColor=white" alt="VMware"/>
 </p>
 
 <h4>Tools</h4>
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&amp;logo=cursor&amp;logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&amp;logo=cursor&amp;logoColor=white" alt="Cursor AI"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine"/>
 </p>
@@ -118,14 +125,21 @@
 <br/>
 
 <blockquote>
-<code>Arista EOS</code> <code>Aruba CX</code> <code>BGP</code> <code>EVPN-VXLAN</code> <code>L3LS Fabric</code> <code>S3 Object Storage</code> <code>Linux</code> <code>Network Monitoring</code>
+<code>Arista EOS</code>
+<code>Aruba CX</code>
+<code>BGP</code>
+<code>EVPN-VXLAN</code>
+<code>L3LS Fabric</code>
+<code>S3 Object Storage</code>
+<code>Linux</code>
+<code>Network Monitoring</code>
 </blockquote>
 
 <ul>
-<li>Managed and monitored enterprise networking technologies and hardware configurations within a dedicated Data Center Unit, maintaining <strong>99.9% uptime reliability</strong> across critical infrastructure.</li>
-<li>Administered <strong>L3LS fabrics, EVPN-VXLAN, and BGP routing</strong> to ensure optimal network performance, scalability, and seamless east-west traffic flow across the spine-leaf architecture.</li>
-<li>Configured and maintained robust <strong>S3-compatible object storage clusters</strong> for enterprise data management, enabling scalable and fault-tolerant storage operations.</li>
-<li>Coordinated shift operations and comprehensive duty rosters across NOC teams to maintain <strong>continuous, high-efficiency 24x7 data center operations</strong>.</li>
+  <li>Managed and monitored enterprise networking technologies and hardware configurations within a dedicated Data Center Unit.</li>
+  <li>Worked with <strong>L3LS fabrics, EVPN-VXLAN, and BGP routing</strong> for scalable spine-leaf network architecture.</li>
+  <li>Handled <strong>S3-compatible object storage</strong> operations for scalable and fault-tolerant storage usage.</li>
+  <li>Supported NOC operations, monitoring, troubleshooting, and infrastructure availability.</li>
 </ul>
 
 </details>
@@ -138,7 +152,7 @@
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| <a href="https://www.cracktnpsc.in"><strong>CrackTNPSC</strong></a> | Next.js, Node.js, Python, Vercel | Built solo as indie developer — free archive platform for TNPSC aspirants covering GK, Tamil Literature, and Public Administration |
+| <a href="https://www.cracktnpsc.in"><strong>CrackTNPSC</strong></a> | Next.js, Node.js, Python, Vercel | Built solo as an indie developer — TNPSC preparation platform covering GK, Tamil Literature, and Public Administration |
 
 </div>
 
@@ -150,11 +164,11 @@
 
 | Emoji | Achievement | Details |
 |:---:|:---|:---|
-| 🌐 | <strong>99.9% Uptime</strong> | Maintained near-zero downtime across enterprise DC fabric via proactive BGP and EVPN-VXLAN monitoring |
-| ⚡ | <strong>Hardware Mastery</strong> | Interoperability deployment of complex Arista EOS and Aruba CX network fabrics in live enterprise environments |
-| 🚀 | <strong>Indie Developer</strong> | Built and deployed cracktnpsc.in solo — a full-stack TNPSC prep archive platform |
-| 📚 | <strong>Continuous Learning</strong> | Deep dive into Indian constitutional history, public administration, and Tamil literature for TNPSC Group 1 |
-| 📈 | <strong>Market Analysis</strong> | Active tracking of financial trends and portfolio management research via leading financial journals |
+| 🌐 | <strong>Data Center Operations</strong> | Experience in enterprise DC monitoring and network operations |
+| ⚡ | <strong>Network Fabric Exposure</strong> | Worked with Arista EOS, Aruba CX, BGP, EVPN-VXLAN, and L3LS concepts |
+| 🚀 | <strong>Indie Developer</strong> | Built and deployed <a href="https://www.cracktnpsc.in">cracktnpsc.in</a> solo |
+| 📚 | <strong>Continuous Learning</strong> | Learning Indian constitutional history, public administration, and Tamil literature for TNPSC Group 1 |
+| 🎮 | <strong>Game Development Interest</strong> | Exploring Unreal Engine for a historical PC game concept |
 
 </div>
 
@@ -177,8 +191,8 @@
 <pre>
 TNPSC Preparation   -->  Indian Constitutional History, Public Administration, Tamil Literature
 Financial Markets   -->  US Financial Trends, Stock Market Analysis, Portfolio Management
-Network Engineering -->  Advanced L3LS Fabric Optimization, SD-WAN Architectures
-Game Development    -->  Unreal Engine — building a historical PC game
+Network Engineering -->  Advanced L3LS Fabric Optimization and SD-WAN Concepts
+Game Development    -->  Unreal Engine historical PC game development
 </pre>
 
 ---
@@ -189,5 +203,5 @@ Game Development    -->  Unreal Engine — building a historical PC game
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%" alt="Footer Banner"/>
 </p>
